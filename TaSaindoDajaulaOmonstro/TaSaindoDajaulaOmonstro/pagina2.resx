@@ -117,4 +117,44 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>TREINO DA SEMANA A,B,C,D
+
+(A)Supino reto - 4x10
+Crucifixo - 3x12
+Tríceps corda - 3x15
+
+(B)Terça - Costas e Bíceps
+
+ Puxada frente - 4x10
+ Remada baixa - 3x12
+ Rosca direta - 3x12
+
+(C)Quarta - Pernas (Foco Completo)
+
+ Agachamento livre - 4x8-10
+ Leg Press - 4x10-12&lt;/li&gt;
+ Afundo com halteres - 3x12 (cada perna)
+ Cadeira extensora - 3x15
+ Mesa flexora - 3x12
+ Panturrilha no Leg Press - 4x20
+</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>(D)Quinta - Ombro e Abdômen
+
+Desenvolvimento com halteres - 4x10
+Elevação lateral - 3x12
+Elevação frontal - 3x12
+Encolhimento para trapézio - 3x15
+Abdominal tradicional - 3x20
+Prancha - 3x30 segundos
+
+(E)Sexta - Pernas (Posterior e Glúteo)
+Levantamento terra - 4x8
+Mesa flexora - 4x12
+Afundo no lugar - 3x12 cada perna
+Glúteo no cabo - 3x15
+Panturrilha sentado - 4x20</value>
+  </data>
 </root>
