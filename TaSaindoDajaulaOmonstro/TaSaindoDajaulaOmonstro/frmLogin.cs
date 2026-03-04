@@ -25,6 +25,7 @@ namespace TaSaindoDajaulaOmonstro
         private void btnEntrar_Click(object sender, EventArgs e)
         {
             pagina_do_carlos Pc =new pagina_do_carlos();
+            Pc.Show();
         }
     }
 }
