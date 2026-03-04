@@ -1,6 +1,6 @@
 ﻿namespace TaSaindoDajaulaOmonstro
 {
-    partial class pagina2
+    partial class pagina_do_carlos
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(pagina2));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(pagina_do_carlos));
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
@@ -85,12 +85,12 @@
             pictureBox1.Image = Properties.Resources.RAPAZ;
             pictureBox1.Location = new Point(23, 58);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(153, 93);
+            pictureBox1.Size = new Size(162, 103);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 4;
             pictureBox1.TabStop = false;
             // 
-            // pagina2
+            // pagina_do_carlos
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -102,7 +102,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
-            Name = "pagina2";
+            Name = "pagina_do_carlos";
             Text = "pagina2";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);

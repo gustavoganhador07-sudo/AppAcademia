@@ -12,11 +12,6 @@ namespace TaSaindoDajaulaOmonstro
 
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
         private void label2_Click(object sender, EventArgs e)
         {
 
@@ -27,9 +22,9 @@ namespace TaSaindoDajaulaOmonstro
 
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void btnEntrar_Click(object sender, EventArgs e)
         {
-
+            pagina_do_carlos Pc =new pagina_do_carlos();
         }
     }
 }

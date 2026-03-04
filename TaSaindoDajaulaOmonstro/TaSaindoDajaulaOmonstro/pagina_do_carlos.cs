@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TaSaindoDajaulaOmonstro
 {
-    public partial class pagina2 : Form
+    public partial class pagina_do_carlos : Form
     {
-        public pagina2()
+        public pagina_do_carlos()
         {
             InitializeComponent();
         }

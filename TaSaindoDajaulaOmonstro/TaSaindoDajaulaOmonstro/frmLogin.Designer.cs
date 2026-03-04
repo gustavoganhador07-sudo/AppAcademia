@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmLogin));
-            button1 = new Button();
+            btnEntrar = new Button();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             label2 = new Label();
@@ -38,15 +38,15 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // button1
+            // btnEntrar
             // 
-            button1.Location = new Point(365, 289);
-            button1.Name = "button1";
-            button1.Size = new Size(90, 34);
-            button1.TabIndex = 0;
-            button1.Text = "Entrar";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click_1;
+            btnEntrar.Location = new Point(365, 289);
+            btnEntrar.Name = "btnEntrar";
+            btnEntrar.Size = new Size(90, 34);
+            btnEntrar.TabIndex = 0;
+            btnEntrar.Text = "Entrar";
+            btnEntrar.UseVisualStyleBackColor = true;
+            btnEntrar.Click += btnEntrar_Click;
             // 
             // textBox1
             // 
@@ -83,12 +83,11 @@
             label3.Size = new Size(39, 15);
             label3.TabIndex = 5;
             label3.Text = "Senha";
-            label3.Click += label3_Click;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(290, 23);
+            pictureBox1.Location = new Point(305, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(222, 152);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -100,13 +99,13 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightCyan;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(814, 450);
             Controls.Add(pictureBox1);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Controls.Add(button1);
+            Controls.Add(btnEntrar);
             Name = "frmLogin";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
@@ -116,7 +115,7 @@
 
         #endregion
 
-        private Button button1;
+        private Button btnEntrar;
         private TextBox textBox1;
         private TextBox textBox2;
         private Label label2;
