@@ -118,16 +118,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="acdemia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acdemia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whey-protein-isolate-whey-concentrate-soy-protein-png-favpng-pw3tCdbKxU5iA5eGSCSrsec6t_t1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whey-protein-isolate-whey-concentrate-soy-protein-png-favpng-pw3tCdbKxU5iA5eGSCSrsec6t_t1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1-14894218" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1-14894218.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whey-protein-isolate-whey-concentrate-soy-protein-png-favpng-pw3tCdbKxU5iA5eGSCSrsec6t_t" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whey-protein-isolate-whey-concentrate-soy-protein-png-favpng-pw3tCdbKxU5iA5eGSCSrsec6t_t.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pre teino" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pre teino.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whey2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whey2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RAPAZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RAPAZ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="treino 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\treino 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1-148942181" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1-148942181.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="acdemia1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\acdemia1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="acdemia" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\acdemia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="treino 2 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\treino 2 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="creatina_menor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\creatina_menor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8bc6928b-831f-4c0d-9d13-80159687fcb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8bc6928b-831f-4c0d-9d13-80159687fcb1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="leo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\leo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="RAPAZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RAPAZ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="treino." type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\treino..png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d65cb393-9ebb-4ccd-899a-5739bcc5f6c3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d65cb393-9ebb-4ccd-899a-5739bcc5f6c3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cafe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cafe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b4144eca-cb87-4deb-bf71-31f536c7e571" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b4144eca-cb87-4deb-bf71-31f536c7e571.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

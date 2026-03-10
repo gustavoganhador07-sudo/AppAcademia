@@ -63,6 +63,36 @@ namespace TaSaindoDajaulaOmonstro.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1_14894218 {
+            get {
+                object obj = ResourceManager.GetObject("1-14894218", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1_148942181 {
+            get {
+                object obj = ResourceManager.GetObject("1-148942181", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _8bc6928b_831f_4c0d_9d13_80159687fcb1 {
+            get {
+                object obj = ResourceManager.GetObject("8bc6928b-831f-4c0d-9d13-80159687fcb1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap acdemia {
             get {
                 object obj = ResourceManager.GetObject("acdemia", resourceCulture);
@@ -83,6 +113,46 @@ namespace TaSaindoDajaulaOmonstro.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap b4144eca_cb87_4deb_bf71_31f536c7e571 {
+            get {
+                object obj = ResourceManager.GetObject("b4144eca-cb87-4deb-bf71-31f536c7e571", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cafe {
+            get {
+                object obj = ResourceManager.GetObject("cafe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap creatina_menor {
+            get {
+                object obj = ResourceManager.GetObject("creatina_menor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap d65cb393_9ebb_4ccd_899a_5739bcc5f6c3 {
+            get {
+                object obj = ResourceManager.GetObject("d65cb393-9ebb-4ccd-899a-5739bcc5f6c3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap leo {
             get {
                 object obj = ResourceManager.GetObject("leo", resourceCulture);
@@ -93,9 +163,101 @@ namespace TaSaindoDajaulaOmonstro.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pngwing_com {
+            get {
+                object obj = ResourceManager.GetObject("pngwing.com", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pre_teino {
+            get {
+                object obj = ResourceManager.GetObject("pre teino", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap RAPAZ {
             get {
                 object obj = ResourceManager.GetObject("RAPAZ", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap treino_ {
+            get {
+                object obj = ResourceManager.GetObject("treino.", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap treino_2 {
+            get {
+                object obj = ResourceManager.GetObject("treino 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap treino_2__1_ {
+            get {
+                object obj = ResourceManager.GetObject("treino 2 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap whey {
+            get {
+                object obj = ResourceManager.GetObject("whey", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap whey_protein_isolate_whey_concentrate_soy_protein_png_favpng_pw3tCdbKxU5iA5eGSCSrsec6t_t {
+            get {
+                object obj = ResourceManager.GetObject("whey-protein-isolate-whey-concentrate-soy-protein-png-favpng-pw3tCdbKxU5iA5eGSCSr" +
+                        "sec6t_t", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap whey_protein_isolate_whey_concentrate_soy_protein_png_favpng_pw3tCdbKxU5iA5eGSCSrsec6t_t1 {
+            get {
+                object obj = ResourceManager.GetObject("whey-protein-isolate-whey-concentrate-soy-protein-png-favpng-pw3tCdbKxU5iA5eGSCSr" +
+                        "sec6t_t1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap whey2 {
+            get {
+                object obj = ResourceManager.GetObject("whey2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
