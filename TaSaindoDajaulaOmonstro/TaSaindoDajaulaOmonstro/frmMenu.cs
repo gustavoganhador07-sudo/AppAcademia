@@ -25,8 +25,13 @@ namespace TaSaindoDajaulaOmonstro
 
         private void btnFicha_De_Treino_Click(object sender, EventArgs e)
         {
-            frmpagina_do_carlos frmpc =new frmpagina_do_carlos();
+            frmpagina_do_carlos frmpc = new frmpagina_do_carlos();
             frmpc.ShowDialog();
+        }
+
+        private void frmMenu_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

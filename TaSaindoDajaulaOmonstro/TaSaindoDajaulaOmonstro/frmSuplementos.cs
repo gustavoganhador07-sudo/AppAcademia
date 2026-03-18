@@ -31,5 +31,15 @@ namespace TaSaindoDajaulaOmonstro
         {
 
         }
+
+        private void btnPaginaAnterior_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+        }
+
+        private void frmSuplementos_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

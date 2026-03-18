@@ -101,9 +101,10 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
+            FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "frmpagina_do_carlos";
-            Text = "pagina2";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Ficha De Treino";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

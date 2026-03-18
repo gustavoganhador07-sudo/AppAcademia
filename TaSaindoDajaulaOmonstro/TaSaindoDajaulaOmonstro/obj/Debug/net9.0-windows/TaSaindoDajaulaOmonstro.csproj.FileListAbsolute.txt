@@ -19,3 +19,4 @@ C:\Users\1090812\Documents\GitHub\AppAcademia\TaSaindoDajaulaOmonstro\TaSaindoDa
 C:\Users\1090812\Documents\GitHub\AppAcademia\TaSaindoDajaulaOmonstro\TaSaindoDajaulaOmonstro\obj\Debug\net9.0-windows\TaSaindoDajaulaOmonstro.frmMenu.resources
 C:\Users\1090812\Documents\GitHub\AppAcademia\TaSaindoDajaulaOmonstro\TaSaindoDajaulaOmonstro\obj\Debug\net9.0-windows\TaSaindoDajaulaOmonstro.frmSuplementos.resources
 C:\Users\1090812\Documents\GitHub\AppAcademia\TaSaindoDajaulaOmonstro\TaSaindoDajaulaOmonstro\obj\Debug\net9.0-windows\TaSaindoDajaulaOmonstro.frmpagina_do_carlos.resources
+C:\Users\1090812\Documents\GitHub\AppAcademia\TaSaindoDajaulaOmonstro\TaSaindoDajaulaOmonstro\obj\Debug\net9.0-windows\TaSaindoDajaulaOmonstro.frmCadastrarUsuario.resources

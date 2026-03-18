@@ -41,6 +41,12 @@
             pictureBox6 = new PictureBox();
             label6 = new Label();
             btnComprar = new Button();
+            button1 = new Button();
+            button2 = new Button();
+            button3 = new Button();
+            button4 = new Button();
+            button5 = new Button();
+            btnPaginaAnterior = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -181,6 +187,7 @@
             // btnComprar
             // 
             btnComprar.BackColor = Color.LimeGreen;
+            btnComprar.Cursor = Cursors.Hand;
             btnComprar.FlatStyle = FlatStyle.Flat;
             btnComprar.Font = new Font("Arial Narrow", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnComprar.ForeColor = Color.Transparent;
@@ -191,12 +198,103 @@
             btnComprar.Text = "Comprar";
             btnComprar.UseVisualStyleBackColor = false;
             // 
+            // button1
+            // 
+            button1.BackColor = Color.LimeGreen;
+            button1.Cursor = Cursors.Hand;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Font = new Font("Arial Narrow", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.Transparent;
+            button1.Location = new Point(286, 171);
+            button1.Name = "button1";
+            button1.Size = new Size(150, 34);
+            button1.TabIndex = 14;
+            button1.Text = "Comprar";
+            button1.UseVisualStyleBackColor = false;
+            // 
+            // button2
+            // 
+            button2.BackColor = Color.LimeGreen;
+            button2.Cursor = Cursors.Hand;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Arial Narrow", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button2.ForeColor = Color.Transparent;
+            button2.Location = new Point(563, 171);
+            button2.Name = "button2";
+            button2.Size = new Size(150, 34);
+            button2.TabIndex = 15;
+            button2.Text = "Comprar";
+            button2.UseVisualStyleBackColor = false;
+            // 
+            // button3
+            // 
+            button3.BackColor = Color.LimeGreen;
+            button3.Cursor = Cursors.Hand;
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.Font = new Font("Arial Narrow", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button3.ForeColor = Color.Transparent;
+            button3.Location = new Point(12, 349);
+            button3.Name = "button3";
+            button3.Size = new Size(150, 34);
+            button3.TabIndex = 16;
+            button3.Text = "Comprar";
+            button3.UseVisualStyleBackColor = false;
+            // 
+            // button4
+            // 
+            button4.BackColor = Color.LimeGreen;
+            button4.Cursor = Cursors.Hand;
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.Font = new Font("Arial Narrow", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.ForeColor = Color.Transparent;
+            button4.Location = new Point(286, 349);
+            button4.Name = "button4";
+            button4.Size = new Size(150, 34);
+            button4.TabIndex = 17;
+            button4.Text = "Comprar";
+            button4.UseVisualStyleBackColor = false;
+            // 
+            // button5
+            // 
+            button5.BackColor = Color.LimeGreen;
+            button5.Cursor = Cursors.Hand;
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.Font = new Font("Arial Narrow", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button5.ForeColor = Color.Transparent;
+            button5.Location = new Point(572, 349);
+            button5.Name = "button5";
+            button5.Size = new Size(150, 34);
+            button5.TabIndex = 18;
+            button5.Text = "Comprar";
+            button5.UseVisualStyleBackColor = false;
+            // 
+            // btnPaginaAnterior
+            // 
+            btnPaginaAnterior.BackColor = Color.Red;
+            btnPaginaAnterior.Cursor = Cursors.Hand;
+            btnPaginaAnterior.FlatStyle = FlatStyle.Flat;
+            btnPaginaAnterior.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnPaginaAnterior.ForeColor = SystemColors.ButtonHighlight;
+            btnPaginaAnterior.Location = new Point(21, 414);
+            btnPaginaAnterior.Name = "btnPaginaAnterior";
+            btnPaginaAnterior.Size = new Size(150, 37);
+            btnPaginaAnterior.TabIndex = 19;
+            btnPaginaAnterior.Text = "PaginaAnterior";
+            btnPaginaAnterior.UseVisualStyleBackColor = false;
+            btnPaginaAnterior.Click += btnPaginaAnterior_Click;
+            // 
             // frmSuplementos
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightSkyBlue;
             ClientSize = new Size(809, 463);
+            Controls.Add(btnPaginaAnterior);
+            Controls.Add(button5);
+            Controls.Add(button4);
+            Controls.Add(button3);
+            Controls.Add(button2);
+            Controls.Add(button1);
             Controls.Add(btnComprar);
             Controls.Add(label6);
             Controls.Add(pictureBox6);
@@ -212,6 +310,7 @@
             Controls.Add(pictureBox1);
             Name = "frmSuplementos";
             Text = "suplementos";
+            FormClosed += frmSuplementos_FormClosed;
             Load += frmSuplementos_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
@@ -238,5 +337,11 @@
         private PictureBox pictureBox6;
         private Label label6;
         private Button btnComprar;
+        private Button button1;
+        private Button button2;
+        private Button button3;
+        private Button button4;
+        private Button button5;
+        private Button btnPaginaAnterior;
     }
 }

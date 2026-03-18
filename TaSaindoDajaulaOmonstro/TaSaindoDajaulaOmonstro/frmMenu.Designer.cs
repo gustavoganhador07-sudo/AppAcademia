@@ -84,8 +84,10 @@
             Controls.Add(btnFicha_De_Treino);
             Controls.Add(btnSuplementos);
             Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "frmMenu";
             Text = "frmMenu";
+            FormClosed += frmMenu_FormClosed;
             ResumeLayout(false);
             PerformLayout();
         }
